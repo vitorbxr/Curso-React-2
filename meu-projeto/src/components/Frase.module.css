@@ -1,0 +1,11 @@
+.fraseContainer{
+	background-color: #333;
+	border: 1px solid black;
+	font-size: 20px;
+}
+.fraseContent{
+	color: #fff;
+	background-color: #333;
+	margin: 0px;
+	font-size: 20px;
+}
